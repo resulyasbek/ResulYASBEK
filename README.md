@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Şu anda üzerinde çalışıyorum<br>Logo ERP, SQL raporlama ve yapay zekâ projeleri<br><br>👯 Şu konularda iş birliğine açığım<br>ERP, SQL, veri analizi ve yapay zekâ destekli iş çözümleri<br><br>🤝 Şu konularda desteğe açığım<br>C#, .NET ve yazılım geliştirme<br><br>🌱 Şu anda öğreniyorum<br>C#, .NET, yazılım geliştirme ve yapay zekâ entegrasyonları<br><br>💬 Bana şunları sorabilirsin<br>Logo ERP, SQL Server, ERP raporlama ve veri analizi<br><br>⚡ Kısa bilgi<br>Karmaşık ERP verilerini anlaşılır ve kullanışlı çözümlere dönüştürmeyi seviyorum.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/resulyasbek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/resulyasbekcom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/resulyasbek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/resulyasbek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:resulyasbekcom@gmail.com) 
 
